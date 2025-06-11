@@ -1,0 +1,25 @@
+.idea/
+
+# Security: Prevent credential exposure
+application/credentials/
+*.pem
+*.key
+*.env
+*secret*
+*password*
+.env*
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
