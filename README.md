@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![SerialPM Banner](application/serialpm/powered-by-vitawind-bright.png)
+![ChatGPT Image Jun 11, 2025, 02_30_15 PM](https://github.com/user-attachments/assets/28d5e14b-cc45-4c38-9476-d7447fe7c351)
+
 
 **Transform your project management with SerialPM - the visual-first, self-hostable project management platform that adapts to your workflow, not the other way around.**
 
